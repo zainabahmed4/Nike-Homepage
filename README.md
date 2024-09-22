@@ -1,0 +1,1 @@
+This project is a simple, responsive homepage for Nike, showcasing a selection of limited edition shoes. The page features an interactive scrolling function that allows users to browse shoe descriptions seamlessly. The layout includes a navigation menu and is designed with clean HTML and CSS to create a user-friendly experience.
